@@ -1,0 +1,160 @@
+.title{
+  font-size: 28px;
+  line-height: 1.4;
+  font-weight: bold;
+  padding-bottom: 35px
+}
+.box{
+  padding: 15px 20px;
+  line-height: 1.6;
+  margin: 25px 0;
+  background: #f7f5ee;
+}
+.bigbox{
+  background-color:#FFFFDD;
+  background-image: radial-gradient(#ffffff 3px,transparent 3px);
+  background-size: 10px 10px;
+
+
+}
+details[open] summary{
+    background-color: #fece00;
+    color: #ffffff;
+
+    font-size: 16.2px;
+    height:37px;
+
+
+}
+summary::before{
+  background-color: #fece00;
+  color: #ffffff;
+  font-size: 16.2px;
+
+  height: 37px;
+}
+h3.dashed{
+  border-top: dashed #fece00;
+  border-bottom: dashed #fece00;
+}
+h3.dotted-bottom{
+  border-bottom: dotted;
+}
+h3.dotted-bottoms{
+  border-bottom: dotted;
+}
+.box1{
+  padding: 5px 10px;
+  line-height: 1.6;
+  margin: 25px 0;
+  background: #f7f5ee;
+}
+h3.dotted{
+  border-bottom: dotted
+}
+.box2{
+  padding: 5px 10px;
+  line-height: 1.6;
+  margin: 25px 0;
+  background: #f7f5ee;
+}
+.remonn{
+  border-top: dashed #fece00;
+  border-bottom: dashed #fece00;
+
+}
+h3.dotted2{
+  border-bottom: dotted
+}
+.box3{
+  padding: 5px 10px;
+  line-height: 1.6;
+  margin: 25px 0;
+  background: #f7f5ee;
+}
+h3.dotted3{
+  border-bottom: dotted
+}
+.box4{
+  padding: 5px 10px;
+  line-height: 1.6;
+  margin: 25px 0;
+  background: #f7f5ee;
+}
+.remonn2{
+  border-top: dashed #fece00;
+  border-bottom: dashed #fece00;
+}
+h3.dotted4{
+  border-bottom: dotted
+}
+.box5{
+  padding: 5px 10px;
+  line-height: 1.6;
+  margin: 25px 0;
+  background: #f7f5ee;
+}
+h3.dotted5{
+  border-bottom: dotted
+}
+.box6{
+  padding: 5px 10px;
+  line-height: 1.6;
+  margin: 25px 0;
+  background: #f7f5ee;
+}
+.remonn3{
+  border-top: dashed #fece00;
+  border-bottom: dashed #fece00;
+}
+.box7{
+  padding: 5px 10px;
+  line-height: 1.6;
+  margin: 25px 0;
+  background: #f7f5ee;
+}
+html,body {
+    height: 100%;
+}
+#tate {
+    width: 70%;
+    height: 100%;
+    margin: 20px 0px 0px 0%;
+}
+#tate::before {
+    content: '';
+    width: 50%;
+    height: 100%;
+    background: url(images/back1.jpg) no-repeat center center;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#tate h1 {
+    position: relative;
+    height: 100%;
+}
+#tate h1 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.rannkinngu{
+  position: relative;
+  left:980px;
+  top: 0px;
+  width: 900px;
+}
+.syasinn{
+  position: relative;
+  left: 890px;
+}
+.koi{
+  position:relative;
+  left: 900px
+
+}
